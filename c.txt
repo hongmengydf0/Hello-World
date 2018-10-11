@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 10.10 update 2.6
-=======
-10.10 update 2.5
->>>>>>> origin/master
+ 
