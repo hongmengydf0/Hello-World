@@ -1,1 +1,1 @@
-d.txt init 
+d.txt is to 2.9 now !
